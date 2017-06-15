@@ -1,0 +1,10 @@
+********************************
+*           VERSIÓN            *
+*            0.2b              *
+*           15/06/2017         *
+********************************
+
+-Añadido favicon
+-Añadida cabecera 
+-Mejora de ui en el apartado de actualizar presencia
+-Añadido registro de fechas 
